@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "firstblocks:block/example_block"
+    }
+  }
+}

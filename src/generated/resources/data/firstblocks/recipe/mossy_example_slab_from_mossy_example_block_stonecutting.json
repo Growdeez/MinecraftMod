@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "firstblocks:mossy_example_block",
+  "result": {
+    "count": 2,
+    "id": "firstblocks:mossy_example_slab"
+  }
+}

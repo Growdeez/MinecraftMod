@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": "firstblocks:refined_amber",
+    "G": "minecraft:gold_ingot",
+    "S": "#minecraft:saplings"
+  },
+  "pattern": [
+    "AG ",
+    "GS ",
+    "  S"
+  ],
+  "result": {
+    "id": "firstblocks:earth_wand"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": "firstblocks:refined_amber",
+    "E": "minecraft:emerald",
+    "I": "minecraft:iron_ingot",
+    "L": "minecraft:lapis_lazuli",
+    "Q": "minecraft:quartz",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    "IAI",
+    "EQL",
+    "IRI"
+  ],
+  "result": {
+    "id": "firstblocks:disco_ball"
+  }
+}

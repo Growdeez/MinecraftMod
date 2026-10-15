@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "firstblocks:block/mossy_example_block"
+    }
+  }
+}

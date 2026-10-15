@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "firstblocks:mossy_example_block",
+  "result": {
+    "id": "firstblocks:mossy_example_stairs"
+  }
+}

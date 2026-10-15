@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_amber": {
+      "conditions": {
+        "items": [
+          {
+            "items": "firstblocks:raw_amber"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "firstblocks:refined_amber"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_raw_amber"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "firstblocks:refined_amber"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "firstblocks:block/disco_ball"
+    },
+    "powered=true": {
+      "model": "firstblocks:block/disco_ball"
+    }
+  }
+}

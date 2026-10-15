@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "firstblocks:refined_amber"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "firstblocks:chests/old_magic_village"
+}

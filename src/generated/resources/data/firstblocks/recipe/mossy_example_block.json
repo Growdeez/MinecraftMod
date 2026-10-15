@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "E": "firstblocks:example_block",
+    "M": "minecraft:moss_block"
+  },
+  "pattern": [
+    "   ",
+    "EM ",
+    "   "
+  ],
+  "result": {
+    "id": "firstblocks:mossy_example_block"
+  }
+}

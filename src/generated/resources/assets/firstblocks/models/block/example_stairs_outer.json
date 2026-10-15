@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "firstblocks:block/example_block",
+    "side": "firstblocks:block/example_block",
+    "top": "firstblocks:block/example_block"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "gives": {
+    "id": "firstblocks:refined_amber"
+  },
+  "wants": {
+    "count": 4,
+    "id": "firstblocks:raw_amber"
+  },
+  "xp": 2
+}

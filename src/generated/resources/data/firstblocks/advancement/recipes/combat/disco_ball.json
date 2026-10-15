@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_refined_amber": {
+      "conditions": {
+        "items": [
+          {
+            "items": "firstblocks:refined_amber"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "firstblocks:disco_ball"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_refined_amber"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "firstblocks:disco_ball"
+    ]
+  }
+}

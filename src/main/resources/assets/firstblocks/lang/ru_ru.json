@@ -1,0 +1,17 @@
+{
+  "itemGroup.firstblocks": "Первые блоки",
+  "block.firstblocks.example_block": "Первый блок",
+  "block.firstblocks.example_stairs": "Ступени из первого блока",
+  "block.firstblocks.example_slab": "Плиты из первого блока",
+  "block.firstblocks.example_wall": "Оградка из первого блока",
+  "block.firstblocks.mossy_example_block": "Замшелый первый блок",
+  "block.firstblocks.mossy_example_stairs": "Замшелые ступени из первого блока",
+  "block.firstblocks.mossy_example_slab": "Замшелые плиты из первого блока",
+  "block.firstblocks.mossy_example_wall": "Замшелая оградка из первого блока",
+  "block.firstblocks.contaminated_amber_ore": "Загрязненная янтарная руда",
+  "item.firstblocks.raw_amber": "Загрязненный янтарь",
+  "item.firstblocks.refined_amber": "Очищенный янтарь",
+  "item.firstblocks.earth_wand": "Земляная палочка",
+  "block.firstblocks.disco_ball": "Дискошар",
+  "entity.firstblocks.villager.old_mage": "Старый маг"
+}

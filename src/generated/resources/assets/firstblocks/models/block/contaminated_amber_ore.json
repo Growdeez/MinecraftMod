@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "firstblocks:block/contaminated_amber_ore"
+  }
+}

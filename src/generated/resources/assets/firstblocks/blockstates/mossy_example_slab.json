@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "firstblocks:block/mossy_example_slab"
+    },
+    "type=double": {
+      "model": "firstblocks:block/mossy_example_block"
+    },
+    "type=top": {
+      "model": "firstblocks:block/mossy_example_slab_top"
+    }
+  }
+}

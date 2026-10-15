@@ -1,0 +1,17 @@
+{
+  "itemGroup.firstblocks": "First Blocks",
+  "block.firstblocks.example_block": "Example Block",
+  "block.firstblocks.example_stairs": "Example Stairs",
+  "block.firstblocks.example_slab": "Example Slab",
+  "block.firstblocks.example_wall": "Example Wall",
+  "block.firstblocks.mossy_example_block": "Mossy Example Block",
+  "block.firstblocks.mossy_example_stairs": "Mossy Example Stairs",
+  "block.firstblocks.mossy_example_slab": "Mossy Example Slab",
+  "block.firstblocks.mossy_example_wall": "Mossy Example Wall",
+  "block.firstblocks.contaminated_amber_ore": "Contaminated Amber Ore",
+  "item.firstblocks.raw_amber": "Raw Amber",
+  "item.firstblocks.refined_amber": "Refined Amber",
+  "item.firstblocks.earth_wand": "Earth Wand",
+  "block.firstblocks.disco_ball": "Disco Ball",
+  "entity.firstblocks.villager.old_mage": "Old Mage"
+}

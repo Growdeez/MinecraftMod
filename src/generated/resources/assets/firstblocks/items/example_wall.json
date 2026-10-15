@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "firstblocks:block/example_wall_inventory"
+  }
+}

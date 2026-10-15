@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:ore",
+  "discard_chance_on_air_exposure": 0.0,
+  "size": 20,
+  "targets": [
+    {
+      "state": "firstblocks:contaminated_amber_ore",
+      "target": {
+        "block": "firstblocks:example_block",
+        "predicate_type": "minecraft:block_match"
+      }
+    }
+  ]
+}

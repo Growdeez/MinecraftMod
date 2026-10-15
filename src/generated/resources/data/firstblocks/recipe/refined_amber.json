@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 400,
+  "experience": 0.2,
+  "ingredient": "firstblocks:raw_amber",
+  "result": {
+    "id": "firstblocks:refined_amber"
+  }
+}
